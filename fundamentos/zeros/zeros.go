@@ -11,5 +11,6 @@ func main() {
 	var d string
 	var e *int
 
+	fmt.Printf("\n%v %v %v %v %v %v", a, b, b, c, d, e)
 	fmt.Printf("\n%v %v %v %v %q %v", a, b, b, c, d, e)
 }
