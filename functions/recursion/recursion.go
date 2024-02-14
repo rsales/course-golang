@@ -23,5 +23,5 @@ func main() {
 		fmt.Println(err)
 	}
 
-	// A better solution would be...
+	// A better solution would be... (unit!)
 }
