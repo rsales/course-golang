@@ -15,7 +15,7 @@ func main() {
 	println("Value of 'i':", i)  // return: 2
 	i++                          // Action: Additive value
 	println("Value of 'p':", *p) // return: 3
-	println("Value of 'i':", i)  // return: 2
+	println("Value of 'i':", i)  // return: 3
 
 	// Go doesn't have pointer arithmetic
 	// p++ // return error in code
